@@ -115,7 +115,7 @@ Refer to this [notebook](https://github.com/PritamAich/Open-contributions/blob/m
 
  - By Pritam Aich
  
- **Connect With me at : **
+ **Connect With me at :**
  
  [Github](https://github.com/PritamAich) | [LinkedIn](https://www.linkedin.com/in/pritam-aich-05b7551b4/)
 
