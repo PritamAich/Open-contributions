@@ -83,7 +83,7 @@ XGBoost is an easy to use algorithm which delivers high performance and accuracy
 
 XGBoost offers a wide variety of hyper-parameters, that when tuned properly can make a huge difference in performance.
 
-Some of the important paramters are:
+Some of the important parameters are:
 
 
 ![](extras/parameters.png)
