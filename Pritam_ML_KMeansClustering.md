@@ -133,3 +133,12 @@ Furthermore, clusters are assumed to be spherical and evenly sized, something wh
 #####  
 
 For a more in-depth explanation on how to implement K-Means Clustering in Python, refer to this [notebook](https://github.com/PritamAich/Open-contributions/blob/master/Pritam_ML_KMeansClustering.ipynb).
+
+####  
+
+ -- By Pritam Aich
+ 
+ **Connect With me at :**
+ 
+ [Github](https://github.com/PritamAich) | [LinkedIn](https://www.linkedin.com/in/pritam-aich-05b7551b4/)
+
