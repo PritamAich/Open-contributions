@@ -13,14 +13,7 @@ Clustering can also be defined as the assignment of a set of observations into s
 
 ####    
  
-<div style="box-sizing: border-box; height: 100px; width: 100%;">
-    <div style="float: left; width: 50%;">
-        <img src="extras/cluster1.png" width="400" height="250" >
-    </div>
-    <div style="float: right; width: 40%;">
-        <img src="extras/cluster2.png" width="400" height="300" >
-    </div>
-</div>
+<img src="extras/cluster1.png" width="400" height="250" > <img src="extras/cluster2.png" width="400" height="300" >
 
 #####       
 
